@@ -1,5 +1,7 @@
 *.o
 
 *.out
+*.ogg
+*.mp3
 
 main
